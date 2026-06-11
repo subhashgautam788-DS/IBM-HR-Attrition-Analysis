@@ -301,7 +301,9 @@ jupyter notebook "Jupyter Notebook/IBM_HR_Attrition_Analysis.ipynb"
 
 Skilled in SQL (PostgreSQL), Python (Pandas, NumPy, Matplotlib, Seaborn), Power BI, and Excel. I build end-to-end analytics projects spanning data cleaning, EDA, and interactive dashboards.
 
-🔗 [GitHub Profile](https://github.com/subhashgautam788-DS)
+🔗 [GitHub Profile](https://github.com/subhashgautam788-DS)  
+💼 [LinkedIn](https://www.linkedin.com/in/subhash-gautam-a6126626b/)  
+📧 subhashgautam788@gmail.com
 
 ---
 
