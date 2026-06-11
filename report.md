@@ -3,7 +3,7 @@
 **Project Type:** End-to-End HR Analytics  
 **Dataset:** IBM HR Employee Attrition & Performance (1,470 employees · 35 features)  
 **Tools:** PostgreSQL · Python (Pandas, NumPy, Matplotlib, Seaborn) · Power BI  
-**Analyst:** Subhash Gautam | [GitHub](https://github.com/subhashgautam788-DS)
+**Analyst:** Subhash Gautam | [GitHub](https://github.com/subhashgautam788-DS) | [LinkedIn](https://www.linkedin.com/in/subhash-gautam-a6126626b/) | subhashgautam788@gmail.com
 
 ---
 
